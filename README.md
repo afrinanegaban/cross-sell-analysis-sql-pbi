@@ -24,7 +24,7 @@ The company's core database structure consists of six relational tables with a t
 * **Products Table:** Detailed catalog information for our product offerings.
 * **Website_Sessions/Pageviews:** Supporting tables for traffic and conversion analysis.
 
-[ERD](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Image/ERD.png)
+![ERD](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Image/ERD.png)
 
 # Executive Summary
 
@@ -47,7 +47,7 @@ The business has achieved a remarkable **171.83% Year-over-Year revenue surge**,
 * **Underperforming Pairings:** **Product 1** showed significant cross-sell weakness, with an attachment rate of only **13.10%**, failing to meet the 20% target and indicating a need for better product-market alignment.
 * **Volume Distribution:** Analysis of order composition revealed that while primary items drive traffic, secondary "Attachment" items contributed **8,000 units** to total volume, highlighting their importance to bottom-line growth.
 
-[Dashboard Preview](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Image/Snapshot%20of%20Dashboard%20(prd%20performance).png)
+![Dashboard Preview](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Image/Snapshot%20of%20Dashboard%20(prd%20performance).png)
 
 ### Category 3: Profitability & Product Mix
 
@@ -61,7 +61,7 @@ The business has achieved a remarkable **171.83% Year-over-Year revenue surge**,
 * **High-Risk Driver:** **Product 3** bundles, despite high attachment rates, carry a dangerous **8.13% refund rate**, suggesting that the bundle may not be meeting customer expectations or has quality defects.
 * **Regional Impact:** Refund patterns varied, suggesting that certain shipping routes or regional quality batches may be contributing to the $110K loss.
 
-[Dashboard Preview](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Image/Snapshot%20of%20Dashboard%20(refund%20overview).png)
+![Dashboard Preview](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Image/Snapshot%20of%20Dashboard%20(refund%20overview).png)
 
 # Recommendations
 
