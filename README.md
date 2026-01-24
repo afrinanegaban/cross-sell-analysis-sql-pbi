@@ -10,8 +10,9 @@ Insights and recommendations are provided on the following key areas:
 * **Profitability & Product Mix:** Identifying high-value bundles with the best revenue-to-risk ratios.
 * **Refund Risk Management:** Quantifying the $110K financial impact of returns and identifying high-risk products.
 
-Targeted SQL queries regarding various business questions can be found [here](https://www.google.com/search?q=link).
-An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://www.google.com/search?q=link).
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/fuzzy_factory_queries.sql).
+
+An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Cross-Sell%20Analysis.pbit).
 
 # Data Structure & Initial Checks
 
