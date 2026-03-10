@@ -70,7 +70,7 @@ To maximize net profit, the company must pivot its cross-selling focus toward hi
 ![Query 6](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Image/Query%206.png)
 
 # Visualization: 
-### [🔗Dashboard Link](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Cross-Sell%20Analysis.pbit?raw=true)
+### [🔗Dashboard Link](https://github.com/afrinanegaban/cross-sell-analysis-sql-pbi/blob/main/Cross-Sell%20Analysis.pbit)
 
 
 <table style="width:100%">
